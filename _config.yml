@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: "Hacking blog - Alb0z"
 email:
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+keywords: ["blog", "jekyll", "hackthebox", "writeups", "writeup", "walkthrough", "walkthroughs"]
 
 #
 ###################################
@@ -33,9 +33,9 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
+  name: "Alb0z"
+  avatar: alb0z.png
+  job: "Hobbiest hacker / Red Teamer wannabe"
   bio: "A simple and awesome blog theme powered by jekyll."
   email:
   disqus-shortname:
