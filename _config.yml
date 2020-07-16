@@ -4,9 +4,9 @@
 #
 ####################################
 #
-title: "Hacking blog - Alb0z"
+title: "Alb0z - Blog"
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: "A place where I will share things that might help others"
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll", "hackthebox", "writeups", "writeup", "walkthrough", "walkthroughs"]
 
@@ -36,8 +36,8 @@ kramdown:
 owner:
   name: "Alb0z"
   avatar: alb0z.png
-  job: "Hobbiest hacker / Red Teamer wannabe"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "A hacker hobbyist / Red Teamer wannabe"
+  bio: "A place where I will share things that might help others"
   email:
   disqus-shortname:
   twitter: #username
