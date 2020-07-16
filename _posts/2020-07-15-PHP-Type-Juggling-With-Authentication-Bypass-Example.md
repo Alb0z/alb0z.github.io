@@ -1,7 +1,7 @@
 ---
 layout: post
-title: PHP Type-Juggling with Authentication Bypass example
-excerpt: "PHP Type-Juggling explained with examples"
+title: PHP Type-Juggling with Authentication Bypass and API Exploitation examples
+excerpt: "PHP Type-Juggling explained with 2 different examples. The first one is Auth Bypass and the second one is exploiting a custom API"
 categories: [tutorials]
 comments: true
 tags: [php, authentication bypass]
