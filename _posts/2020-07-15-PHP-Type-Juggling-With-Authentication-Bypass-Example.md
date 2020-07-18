@@ -4,7 +4,7 @@ title: PHP Type-Juggling with Authentication Bypass and API Exploitation example
 excerpt: "PHP Type-Juggling explained with 2 different examples. The first one is Auth Bypass and the second one is exploiting a custom API"
 categories: [tutorials]
 comments: true
-tags: [php, authentication bypass]
+tags: [php, authentication bypass, python]
 ---
 
 Did you know that a single missing character in your code can cause your authentication mechanism to be broken and give
